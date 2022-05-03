@@ -1,0 +1,11 @@
+{
+    "branchPrefix": "renovate-selfhosted/",
+    "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+    "platform": "github",
+    "repositories": [
+      "cavcrosby/jenkins-docker-base",
+      "cavcrosby/jenkins-docker-torkel",
+      "cavcrosby/homelab-cm",
+      "cavcrosby/cavcrosby.general"
+    ]
+}
